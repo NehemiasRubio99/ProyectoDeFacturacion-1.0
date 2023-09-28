@@ -1,0 +1,186 @@
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.exe.config
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.exe
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.pdb
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csproj.AssemblyReference.cache
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Properties.Resources.resources
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csproj.GenerateResource.cache
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csproj.CoreCompileInputs.cache
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.exe
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.pdb
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\miLibreria.dll
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\miLibreria.pdb
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csproj.CopyComplete
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.VentanaAdmin.resources
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.VentanaLogin.resources
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.VentanaUser.resources
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.FormBase.resources
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.exe.config
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.exe
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.pdb
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\miLibreria.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\miLibreria.pdb
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.ContenedorPrincipal.resources
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.FormBase.resources
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimiento.resources
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.VentanaAdmin.resources
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.VentanaLogin.resources
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.VentanaUser.resources
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.exe
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.pdb
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.MantenimientoCliente.resources
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.MantenimientoProductos.resources
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Consultas.resources
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.ConsultarClientes.resources
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.ConsultarProductos.resources
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Facturacion.resources
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\EnvDTE.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\stdole.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Reporte.resources
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\RdlCompile.cache
+C:\Users\USUARIO\source\repos\SistemaFacturacion\SistemaFacturacion\obj\Debug\RdlCompile.compiled
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.exe.config
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.exe
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\SistemaFacturacion.pdb
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\miLibreria.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\EnvDTE.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\stdole.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\Microsoft.MSXML.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\miLibreria.pdb
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csproj.AssemblyReference.cache
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.ConsultarClientes.resources
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.ConsultarProductos.resources
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Consultas.resources
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.ContenedorPrincipal.resources
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Facturacion.resources
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.FormBase.resources
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Mantenimiento.resources
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.MantenimientoCliente.resources
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.MantenimientoProductos.resources
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Reporte.resources
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.VentanaAdmin.resources
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.VentanaLogin.resources
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.Properties.Resources.resources
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.VentanaUser.resources
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csproj.GenerateResource.cache
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csproj.CoreCompileInputs.cache
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.csproj.CopyComplete
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.exe
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\SistemaFacturacion.pdb
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\RdlCompile.cache
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\SistemaFacturacion\obj\Debug\RdlCompile.compiled

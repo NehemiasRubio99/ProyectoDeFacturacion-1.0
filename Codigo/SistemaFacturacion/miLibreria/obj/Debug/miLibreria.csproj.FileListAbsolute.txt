@@ -1,0 +1,18 @@
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\miLibreria\bin\Debug\miLibreria.dll
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\miLibreria\bin\Debug\miLibreria.pdb
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\miLibreria\obj\Debug\miLibreria.csproj.AssemblyReference.cache
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\miLibreria\obj\Debug\miLibreria.csproj.CoreCompileInputs.cache
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\miLibreria\obj\Debug\miLibreria.dll
+C:\Users\Nehemias99\source\repos\SistemaFacturacion\miLibreria\obj\Debug\miLibreria.pdb
+C:\Users\USUARIO\source\repos\SistemaFacturacion\miLibreria\bin\Debug\miLibreria.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\miLibreria\bin\Debug\miLibreria.pdb
+C:\Users\USUARIO\source\repos\SistemaFacturacion\miLibreria\obj\Debug\miLibreria.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\SistemaFacturacion\miLibreria\obj\Debug\miLibreria.dll
+C:\Users\USUARIO\source\repos\SistemaFacturacion\miLibreria\obj\Debug\miLibreria.pdb
+C:\Users\USUARIO\source\repos\SistemaFacturacion\miLibreria\obj\Debug\miLibreria.csproj.AssemblyReference.cache
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\miLibreria\obj\Debug\miLibreria.csproj.AssemblyReference.cache
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\miLibreria\obj\Debug\miLibreria.csproj.CoreCompileInputs.cache
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\miLibreria\obj\Debug\miLibreria.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\miLibreria\obj\Debug\miLibreria.pdb
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\miLibreria\bin\Debug\miLibreria.dll
+D:\FINAL PROGRAMACION2\ProyectoC\Codigo\SistemaFacturacion\miLibreria\bin\Debug\miLibreria.pdb
